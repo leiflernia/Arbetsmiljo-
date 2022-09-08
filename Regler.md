@@ -13,7 +13,7 @@ Syftet är att förebygga ohälsa och olycksfall i arbetet samt att uppnå en go
 Utöver lagen finns förordningar och föreskrifter. Alla yrkesområden har sina speciella risker och regler. De regleras oftast i föreskrifter från Arbetsmiljöverket. Till företagens hjälp finns branschpaket med föreskrifter som stöd för det lokala arbetet. Ett exempel är regler för skyddsutrustning som ska användas vid olika typer av arbeten.
 
 ### Skyddsombud
-På arbetsplatser med fler än fem anställda ska det finnas skyddsombud. De har särskilda befogenheter för att säkra en god arbetsmiljö på företaget.
+På arbetsplatser med minst fem anställda ska skyddsombud utses. De har särskilda befogenheter för att säkra en god arbetsmiljö på företaget.
  Ett skyddsombud ska se till att arbetsmiljön är bra för arbetarna och har rätt att stoppa arbetet om det finns risk att någon skadas. 
 Vi kommer gå in mer om skyddsombud  under delen Ansvar på arbetsplatsen.
 

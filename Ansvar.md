@@ -45,7 +45,7 @@ Se 3 kap. 4 § arbetsmiljölagen.
 
 ### Skyddsombud
 
-På ett företag med mer än 4 st anställda så ska det finnas ett skyddsombud
+På ett företag med minst fem anställda ska skyddsombud utses.
 
   
 
